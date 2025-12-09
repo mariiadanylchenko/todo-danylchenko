@@ -15,6 +15,7 @@ import (
 	"github.com/BohdanBoriak/boilerplate-go-back/internal/infra/http"
 )
 
+// h/w
 func main() {
 	exitCode := 0
 	ctx, cancel := context.WithCancel(context.Background())
